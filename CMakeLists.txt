@@ -4,4 +4,6 @@ project(startingoutcplusplus)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(startingoutcplusplus
-        chapter2/check2-1.cpp)
+        chapter2/check2exercise2.cpp)
+
+
