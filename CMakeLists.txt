@@ -4,6 +4,6 @@ project(startingoutcplusplus)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(startingoutcplusplus
-         chapter2/exercise4.cpp chapter2/exercise5.cpp chapter2/exercise6.cpp chapter2/exercise7.cpp chapter2/exercise8.cpp chapter2/exercise9.cpp chapter2/exercise10.cpp)
+         chapter2/sizeprog.cpp)
 
 
